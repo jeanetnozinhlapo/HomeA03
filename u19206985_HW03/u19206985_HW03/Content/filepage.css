@@ -1,0 +1,20 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.row {
+    border: 1px solid rgb(220, 220, 220);
+    background-color: rgb(220, 220, 220);
+}
+
+.download{
+    background-color: rgb(29 174 48);
+    color: black;
+}
+
+.delete{
+    background-color: rgb(247 27 27);
+}
+
+
